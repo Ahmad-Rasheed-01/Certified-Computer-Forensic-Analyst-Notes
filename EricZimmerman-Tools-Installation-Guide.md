@@ -9,7 +9,7 @@ EricZimmerman's forensics tools are a comprehensive collection of digital forens
 - Windows operating system (10/11)
 - PowerShell (available by default on Windows)
 - Internet connection
-- Archive extraction software (WinRAR, 7-Zip, or built-in Windows extraction)
+- Archive extraction software (WinRAR or 7-Zip)
 - Administrator privileges (only for final installation step)
 
 ## Step 1: Download the Script Package
