@@ -73,7 +73,7 @@ The script will automatically:
 
 **Note**: The download time depends on your internet speed and system performance. Be patient as this process may take several minutes to complete.
 
-![Installation Process](assets\images\EZ.png)
+![Installation Process](assets/images/EZ.png)
 *Example of prompts and logs during the EricZimmerman tools installation process*
 
 ## Step 6: Move Tools to Final Location
